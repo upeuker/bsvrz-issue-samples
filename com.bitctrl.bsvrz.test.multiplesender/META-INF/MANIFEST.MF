@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Multiplesender
+Bundle-SymbolicName: com.bitctrl.bsvrz.test.multiplesender
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: BITCTRL
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: de.bsvrz.dav.daf;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.debug;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.application;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.commandLineArgs;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.crypt;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.concurrent;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.dataSerializer;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.timeout;bundle-version="3.5.0",
+ de.bsvrz.sys.funclib.operatingMessage;bundle-version="3.5.0"
